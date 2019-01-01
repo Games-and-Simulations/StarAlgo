@@ -36,13 +36,13 @@ The most interesting improvements at this time would be:
 
 ### Referencing this work:
 
-If you use the library in some kind of academic work, please reference the following paper: M. Viazovskyi, M Certicky. [StarAlgo: A Squad Movement Planning Library for StarCraft using Monte Carlo Tree Search and Negamax](https://certicky.github.io/files/publications/staralgo-arxiv-2018.pdf). arXiv preprint. 2018. 
+If you use the library in some kind of academic work, please reference the following paper: M. Viazovskyi, M Certicky. [StarAlgo: A Squad Movement Planning Library for StarCraft using Monte Carlo Tree Search and Negamax](https://arxiv.org/abs/1812.11371). arXiv preprint arXiv:1812.11371. 2018. 
 
 ```
 @article{viazovskyi2018,
   title={StarAlgo: A Squad Movement Planning Library for StarCraft using Monte Carlo Tree Search and Negamax},
   author={Viazovskyi, Mykyta and and {\v{C}}ertick{\`y}, Michal},
-  journal={arXiv preprint},
+  journal={arXiv preprint arXiv:1812.11371},
   year={2018}
 } 
 ```
